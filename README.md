@@ -6,3 +6,6 @@
 1. `OPENAI_API_KEY = "your openai api-key"` 中填入一个有效的 OPENAI API-KEY
 2. `pip install openai`
 3. `python main.py`
+
+
+![example](https://github.com/yifu-ding/CyberZY/blob/main/image.jpg)
