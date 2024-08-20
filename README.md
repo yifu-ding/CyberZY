@@ -7,5 +7,6 @@
 2. `pip install openai`
 3. `python main.py`
 
+# Example 
 
 ![example](https://github.com/yifu-ding/CyberZY/blob/main/image.jpg)
